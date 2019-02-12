@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pechib.qlb6x.com/sitemap.xml
